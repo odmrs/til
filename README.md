@@ -14,7 +14,7 @@
 
 ## C - Programming Language
 - [Variables and Memory](c/pointers/variables_and_memory.md)
-- [Pointers and Arrays](c/pointers/pointers_and_array)
+- [Pointers and Arrays](c/pointers/pointers_and_array.md)
 
 ---
 
