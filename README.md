@@ -12,4 +12,5 @@
 ## Categories
 
 ### C - Programming Language
-- [Pointers](c/pointers/variables_and_memory.md)
+- [Variables and Memory](c/pointers/variables_and_memory.md)
+- [Pointers and Arrays](c/pointers/pointers_and_array)
